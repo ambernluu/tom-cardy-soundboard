@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/72d59322-cb6f-472f-a4d4-2578373852b2/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/Tom-Cardy-Sound-Board",
+    "appService.deploySubpath": "."
+}
