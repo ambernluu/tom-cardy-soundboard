@@ -6,6 +6,8 @@ const sounds = [
     'ghostbusters',
     'hycybh',
     "go-home",
+    "crush-it-extended",
+    "crush-it",
     'business-plan'
 ];
 
