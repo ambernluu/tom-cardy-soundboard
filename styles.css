@@ -15,7 +15,11 @@ body{
 
 }
 
-
+div{
+   position: absolute;
+   bottom: 0; 
+   
+}
 .btn{
     background-color: #44bde2;
     font-size: 150%;
@@ -44,5 +48,7 @@ body{
         border-radius: 5%;
         border: 3px solid #555555;
         margin: 5px;
+        float: right;
+        display: block;
     }
   }
