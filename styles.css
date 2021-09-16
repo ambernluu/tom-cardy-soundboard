@@ -1,0 +1,26 @@
+body{
+    background-color: darkslateblue;
+    background-image: url('cardy.jpg');
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: 150vh;
+    text-align: center;
+    overflow: hidden;
+    margin: 0;
+}
+
+.btn{
+    background-color: #44bde2;
+    font-size: 150%;
+    padding: 10px;
+    border-radius: 5%;
+    border: 3px solid #555555;
+    margin: 5px;
+}
+
+.btn:active{
+    transform: scale(1);
+    box-shadow: 0 0 20px #06f038;
+}
