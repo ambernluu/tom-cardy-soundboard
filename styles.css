@@ -35,6 +35,7 @@ body{
     body {
         background-size: cover;
         width: fit-content;
+        text-align: end;
         
     }
 
