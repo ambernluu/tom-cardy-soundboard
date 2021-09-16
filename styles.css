@@ -1,13 +1,16 @@
 body{
     background-color: darkslateblue;
     background-image: url('cardy.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    
-    text-align: center;
-    overflow: hidden;
+ 
+    text-align: start;
+  
     margin: 0;
 }
 
