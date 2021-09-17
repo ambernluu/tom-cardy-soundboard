@@ -23,7 +23,7 @@ div{
     font-size: 150%;
     font-weight: bold;
     padding: 3%;
-    border-radius: 9%;
+    border-radius: 15%;
     border: 15% solid #555555; 
 }
 
@@ -48,7 +48,7 @@ div{
         background-color: #44bde2;
         font-size: 150%;
         padding: 0%;
-        border-radius: 9%;
+        border-radius: 15%;
         border: 3px solid #555555;
         margin: 5px;
         float: left;
